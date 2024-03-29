@@ -1,66 +1,101 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Fabian Andres Villon Garcia",
+    "label": "Ingeriero Full Stack Developer con más de 10 años de experiencia en desarrollo web",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "favillon@gmail.com",
+    "phone": "+57 3213716701",
+    "url": "https://favillom.com",
+    "summary": "Ingeniero Full Stack apasionado por la tecnología y el aprendizaje continuo, con más de 10 años de experiencia en el desarrollo de soluciones web escalables y eficientes. Poseo una sólida formación en programación orientada a objetos (POO), principios SOLID, microservicios y metodologías ágiles e híbridas.",
+    "summary_ext": "Mi objetivo es aportar valor a una  empresa innovadora donde pueda utilizar mis habilidades y experiencia para desarrollar e implementar soluciones tecnológicas que optimicen procesos y mejoren los resultados, me gusta trabajar en equipo de forma proactiva y colaborativa para alcanzar objetivos comunes.  Afrontar nuevos retos con una actitud positiva y proactiva",
+    "summary_end" : "Me considero una persona responsable, organizada y con gran capacidad de resolución de problemas.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "11911",
+      "city": "Bogota",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "favillon",
+        "url": "https://github.com/favillon"
+      },
+      {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "favillon",
+        "url": "https://linkedin.com/in/favillon"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
-      {
-        "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "favillon",
+        "url": "https://x.com/favillon"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Aira",
+      "position": "Ingeniero Full Stack",
+      "url": "https://www.airavirtual.com/",
+      "startDate": "2022-02-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Creación, edición y mantenimiento de API's para la comunicación del backend con el frontend y servicios de terceros, Optimización y acoplamiento del monolito para dar soporte a las nuevas necesidades de la plataforma, Adaptación de los wireframe / figmas al entorno UI de la aplicación, Elaboración de componentes para usabilidad y reutilización acorde a la necesidad del producto, Fabricación de métodos para búsqueda optimizadas en ElasticSeacch, Mejora de las Cloud Function programadas en los eventos del monolito",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
+      "name": "Solati SAS",
+      "position": "Líder técnico - Ingeniero Full Stack",
+      "url": "https://www.solati.co/",
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Diseño e Implementación Ciclo DevOps (Gitlab Community on-premises), Consolidación de la contenerización del monolito para mayor facilidad en el equipo de trabajo (desarrolladores) al momento de montar su entorno de trabajo, Estandarizado e instalado el coverage para la revisión de calidad del código, Mediación entre áreas para agilizar la comunicación   y la multidisciplinariedad de la compañía para así aprovechar  al máximo las habilidades de los colaboradores para dar finalidad a las metas planteadas ",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Proximity Colombia",
+      "position": "Desarrollador Front-End",
+      "url": "https://www.proximitybbdo.com.co/",
+      "startDate": "2013-04-01",
+      "endDate": "2015-03-30",
+      "summary": "Elaboración  de tab's y app's con los SDK de las redes más relevantes (PHP, Javascript). Para extraccion de datos relevantes  para empresa que requierian obtener una consolidad BD para estudio de clientes. Creación, edición y mantenimiento de sitios a la medida, CMS y bajo framework (Drupal, Wordpress ,Joomla Codeigniter, phlacon, Laravel. PHP POO).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Ariadna",
+      "position": "Desarrollador PHP",
+      "url": "https://ariadnacommunicationsgroup.com/es",
+      "startDate": "2013-01-15",
+      "endDate": "2013-03-30",
+      "summary": "Sitios encargados para el manejo y atención de compras, garantías, ventas, presupuestos y control de actividades para la empresa Michelin",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Digiway Corp",
+      "position": "Desarrollador PHP",
+      "url": "https://digiwaycorp.com/",
+      "startDate": "2012-03-01",
+      "endDate": "2013-01-01",
+      "summary": "Creación, edición y mantenimiento de sitios elaborados en E-Commerce, Implementación métodos de pago con entidades certificadas y avaladas para el comercio online (Place to pay - Pagos Online)",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Gaming Culture Colombia Ltda",
+      "position": "Desarrollador PHP",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-30",
+      "summary": "Elaboración de aplicaciones web para entidades como ETB, Ecopetrol, Y PIMES",
       "highlights": [
         "Started the company"
       ]
@@ -77,18 +112,39 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Smart",
+      "url": "https://www.smart.edu.co",
+      "area": "Ingles",
+      "studyType": "Idiomas",
+      "startDate": "2023-11-01"
+    },
+    {
+      "institution": "Kleer",
+      "url": "https://www.kleer.com/",
+      "area": "Scrum Developer",
+      "studyType": "Scrum",
+      "startDate": "2018-02-01",
+      "endDate": "2018-02"
+    },
+    {
+      "institution": "Politécnico Grancolombiano",
+      "url": "https://www.poli.edu.co/",
+      "area": "Ingeniero de Sistemas",
+      "studyType": "Ingenieria de Sistemas",
+      "startDate": "2011-01",
+      "endDate": "2017-02"
+    },
+    {
+      "institution": "Corporación Universitaria Minuto de Dios",
+      "url": "https://www.uniminuto.edu/",
+      "area": "Tecnologo En sistemas",
+      "studyType": "Tecnologo En sistemas",
+      "startDate": "2007-02",
+      "endDate": "2010-02"
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -110,6 +166,20 @@
   }],
   "skills": [
     {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Master",
       "keywords": [
@@ -124,31 +194,10 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
@@ -173,8 +222,7 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
+      "name": "Flutter",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
@@ -210,66 +258,61 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "aira.airavirtual",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Inteligencia Artificial aplicada a Recursos Humanos para el Reclutamiento y Selección de talento en empresas. ",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Test psicométricos, video presentación",
+        "Onboarding de candidatos",
+        "Gestión de referencias laborales"
       ],
-      "url": "https://mars.codes"
+      "url": "https://aira.airavirtual.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "Adminfo Smart",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Con una sola plataforma automatizas y controlas todo el ciclo de la gestión de cobranza",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+        "Preventiva",
+        "Pre-juridica",
+        "Juridica",
+        "Castigada"
+      ]
     },
     {
-      "name": "Codember",
+      "name": "Adminfo Smart - BRP",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Administracion de Bienes y Garantias",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      ]
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "Movies App",
+      "description": "App para ver el ranking de peliculas",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Flutter",
+        "Dart"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "github": "https://github.com/favillon/flutter_movie_app"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Flutter Components",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Modulo de componentes para el curso de fluter",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Flutter",
+        "Dart"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "github": "https://github.com/favillon/flutter_components"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Cepam",
+      "description": "Proyecto de Centro de Entretenimiento par adulto Mayor",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Primera Fase",
+        "Asesorias"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/favillon/cepam"
     }
   ]
 }
