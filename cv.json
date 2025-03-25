@@ -36,11 +36,22 @@
   },
   "work": [
     {
+      "name": "Gobal Hitss",
+      "position": "Lider Tecnico ",
+      "url": "https://globalhitss.com/",
+      "startDate": "2024-04-15",
+      "endDate": null,
+      "summary": "Acompañamiento al desarrollador para definiciones y problemas técnico Establecer y mantener altos estándares de calidad para los productos desarrollados. Coordinar y participar en pruebas de software. Revision y aprobacion de Pull Request Creación de Pipelines para puestas en los ambientes Asegurar que los productos cumplan con los requisitos y especificaciones antes de su lanzamiento.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Aira",
       "position": "Ingeniero Full Stack",
       "url": "https://www.airavirtual.com/",
       "startDate": "2022-02-01",
-      "endDate": null,
+      "endDate": "2024-03-31",
       "summary": "Creación, edición y mantenimiento de API's para la comunicación del backend con el frontend y servicios de terceros, Optimización y acoplamiento del monolito para dar soporte a las nuevas necesidades de la plataforma, Adaptación de los wireframe / figmas al entorno UI de la aplicación, Elaboración de componentes para usabilidad y reutilización acorde a la necesidad del producto, Fabricación de métodos para búsqueda optimizadas en ElasticSeacch, Mejora de las Cloud Function programadas en los eventos del monolito",
       "highlights": [
         "Started the company"
